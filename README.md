@@ -8,7 +8,7 @@
 - **I specialise in Data Science**
 * **It may be quite empty rn but i hope to make this a pretty cool repo by the end of my studies**
 
-Here is the [link](https://github.com/jton239/Stats220.git) to my website
+Here is the [link](https://jton239.github.io/Stats220/) to my website
 
 
 ![](https://media0.giphy.com/avatars/foxadhd/FIpJVXV5aO80.gif)
